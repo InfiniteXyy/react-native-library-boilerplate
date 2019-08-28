@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "themeit-example",
+    "name": "example-app",
     "slug": "example-app",
     "privacy": "public",
     "sdkVersion": "33.0.0",

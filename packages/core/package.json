@@ -10,9 +10,10 @@
     "android",
     "ios"
   ],
+  "main": "./src/index.js",
   "author": {
-    "name": "InfiniteXyy",
-    "email": "xuyiyangwing@gmail.com"
+    "name": "name",
+    "email": "name@gmail.com"
   },
   "license": "MIT",
   "bugs": {
