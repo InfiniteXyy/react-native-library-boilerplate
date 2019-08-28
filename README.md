@@ -5,7 +5,7 @@
 
 
 ## Example app
-![image](https://raw.githubusercontent.com/InfiniteXyy/react-native-library-boilerplate/master/doc/screenshot.jpeg)
+<img src="https://raw.githubusercontent.com/InfiniteXyy/react-native-library-boilerplate/master/doc/screenshot.jpeg" height="500" />
 
 
 ## Installation
