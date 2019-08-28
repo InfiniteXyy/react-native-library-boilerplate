@@ -1,0 +1,27 @@
+{
+  "name": "example-library",
+  "version": "0.0.1",
+  "description": "Another UI library for react-native...",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "UI library",
+    "android",
+    "ios"
+  ],
+  "author": {
+    "name": "InfiniteXyy",
+    "email": "xuyiyangwing@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://your_github_issue_page"
+  },
+  "homepage": "https://your_github_home_page",
+  "peerDependencies": {
+    "react": ">=16.8",
+    "react-native": ">=0.50.0"
+  },
+  "private": false
+}

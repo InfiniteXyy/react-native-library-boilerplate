@@ -1,0 +1,13 @@
+# OSX
+#
+.DS_Store
+
+# idea
+.idea/
+
+# node.js
+node_modules/
+npm-debug.log
+
+#example
+example-app/

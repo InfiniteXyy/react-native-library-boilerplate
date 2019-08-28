@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "themeit-example",
+    "slug": "example-app",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "packagerOpts": {
+      "config": "metro.config.js"
+    }
+  }
+}
